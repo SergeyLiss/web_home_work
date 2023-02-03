@@ -1,0 +1,59 @@
+@font-face {
+    font-family: StadartAll;
+    src: url(./assets/fonts/static/RobotoMono-Medium.ttf);
+}
+html,body{
+    overflow-x: hidden;
+    width: 100%;
+    font-family: StadartAll;
+    font-style: normal;
+    font-size: 16px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+h1{
+    margin: 80px 20px 20px 20px;
+}
+
+p{
+    margin: 0px 0px 0px 0px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 120px 20px 20px -420px;
+}
+
+nav li{
+    padding: 20px 20px 20px 20px;;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    margin: 20px 20px 20px 20px;
+}
+
+.logo img{
+    width: 80px;
+    height: 80px;
+}
+
+.container{
+    margin: 20px 20px 20px 20px;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
+}
