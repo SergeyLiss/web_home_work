@@ -1,4 +1,5 @@
 last_user = 'Что-то'
+
 function VvodName(){
     let name_user = prompt("Все таки нажал.\nИ как твое имя:", "имя")
     alert(name_user)
