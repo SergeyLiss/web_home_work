@@ -1,0 +1,58 @@
+{
+    "name" : [
+        "Heroes",
+        "Stan Against Evil",
+        "Sense8",
+        "Final Space",
+        "Shameless"
+    ],
+    "original_release": [
+        "September 25, 2006 – February 8, 2010",
+        "October 31, 2016 – November 21, 2018",
+        "June 5, 2015 – June 8, 2018",
+        "February 26, 2018 – June 14, 2021",
+        "January 9, 2011 – April 11, 2021"
+    ],
+    "genre" : [
+        "Superhero, Drama",
+        "Comedy horror",
+        "Science fiction, Drama",
+        "Action, Adventure, Comedy drama, Science fantasy, Space opera, Thriller",
+        "Comedy drama, Family drama, Black comedy"
+    ],
+    "created_by" : [
+        "Tim Kring",
+        "Dana Gould",
+        "The Wachowskis, J. Michael Straczynski",
+        "Olan Rogers",
+        "Paul Abbott"
+    ],
+    "number_of_seasons" : [
+        "4",
+        "3",
+        "2",
+        "3",
+        "11"
+    ],
+    "number_of_episodes" : [
+        "77",
+        "24",
+        "24",
+        "36",
+        "134"
+    ],
+    "running_time" : [
+        "42 minutes",
+        "22 minutes",
+        "46–151 minutes",
+        "21 minutes",
+        "44–60 minutes"
+    ],
+    "link_to_wiki" : [
+        "https://en.wikipedia.org/wiki/Heroes_(American_TV_series)",
+        "https://en.wikipedia.org/wiki/Stan_Against_Evil",
+        "https://en.wikipedia.org/wiki/Sense8",
+        "https://en.wikipedia.org/wiki/Final_Space",
+        "https://en.wikipedia.org/wiki/Shameless_(American_TV_series)"
+    ]
+}
